@@ -23,7 +23,7 @@ public class StopScript : MonoBehaviour {
         {
             // make this play an animation and a sound
             // the current flag is destroyed
-            //rig.velocity = Vector2.zero;
+            rig.velocity = Vector2.zero;
         } // if
     }
 }
